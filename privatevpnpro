@@ -11,19 +11,6 @@
         "vpnNoAuth": true
       },
       {
-        "vpnName": "United States 1",
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "United States 2",
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
-        "vpnUser": "aftabwazirzalmi",
-        "vpnNoAuth": true
-      },
-      {
         "vpnName": "United States Smart",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/NEW/refs/heads/main/usa%20smart.ovpn",
@@ -69,18 +56,6 @@
         "vpnName": "Iraq",
         "vpnIso": "iq",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/IQ.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "France",
-        "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/116-fr.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "France 2",
-        "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn",
         "vpnNoAuth": true
       },
       {
